@@ -1,0 +1,10 @@
+.card-img-top{
+    width:150px;
+    align-self:center;
+}
+footer{
+    clear:both;
+    background-color: aqua;
+    padding: 30px;
+    color: blueviolet;
+}
